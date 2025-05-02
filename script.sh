@@ -1,5 +1,5 @@
-folders=("RecursionAndBacktracking/N-queens" "RecursionAndBacktracking/SudokuSolver" "RecursionAndBacktracking/Permutations" "RecursionAndBacktracking/SubsetSum")
-
+folders=(
+"Algorithms/Hashing-Encryption/HashFunction" "Algorithms/Hashing-Encryption/RSA-AES"  )
 for folder in "${folders[@]}"; do
   mkdir -p "$folder"
   touch "$folder"/.gitkeep
