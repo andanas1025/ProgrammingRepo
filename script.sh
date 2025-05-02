@@ -1,13 +1,15 @@
 folders=(
-"AndroidEnvironment/package/apk" "AndroidEnvironment/package/aab"
-"AndroidEnvironment/DependencyProvider/Gradle" "AndroidEnvironment/DependencyProvider/Proguard" "AndroidEnvironment/DependencyProvider/R8" 
-"AndroidEnvironment/AppComponents/Activity" "AndroidEnvironment/AppComponents/Intent" "AndroidEnvironment/AppComponents/Service" "AndroidEnvironment/AppComponents/BroadcastReceiver" "AndroidEnvironment/AppComponents/ContentProvider"
-"AndroidEnvironment/interface/xml" "AndroidEnvironment/interface/JetpackCompose" "AndroidEnvironment/interface/CustomViews" 
-"AndroidEnvironment/Storage/SharedPreferences" "AndroidEnvironment/Storage/DataStore" "AndroidEnvironment/Storage/Room" "AndroidEnvironment/Storage/FileSystem"
-"AndroidEnvironment/Network/Retrofit" "AndroidEnvironment/Network/OkHttp" "AndroidEnvironment/Network/Retro" "AndroidEnvironment/Network/Apollo" "AndroidEnvironment/Network/GraphQL"
-"AndroidEnvironment/Asynchronism/Coroutines" "AndroidEnvironment/Asynchronism/Threads"
-"AndroidEnvironment/Asynchronism/RxJava" "AndroidEnvironment/Asynchronism/RxKotlin" "AndroidEnvironment/Asynchronism/WorkManager"
-"AndroidEnvironment/Testing/Espresso" "AndroidEnvironment/Testing/JUnit" "AndroidEnvironment/Testing/RoboElectric" "AndroidEnvironment/Testing/MockK" "AndroidEnvironment/Testing/Kluent" "AndroidEnvironment/Testing/KEspresso")
+"AndroidEnvironment/Linting/Ktlint" "AndroidEnvironment/Linting/Detekt"
+"AndroidEnvironment/Debugging/Timber" "AndroidEnvironment/Debugging/LeakCanary"
+"AndroidEnvironment/Debugging/Chucker" "AndroidEnvironment/Debugging/JetpackBenchmark"
+"AndroidEnvironment/Debugging/Profiler"
+"AndroidEnvironment/Distribution/FirebaseDistribution" "AndroidEnvironment/Distribution/GooglePlayStore"
+"AndroidEnvironment/Encryption/Cipher/AES" "AndroidEnvironment/Encryption/Cipher/RSA" "AndroidEnvironment/Encryption/Cipher/DES-3DES" "AndroidEnvironment/Encryption/KeyGenerator/AES" "AndroidEnvironment/Encryption/KeyPairGenerator/RSA" "AndroidEnvironment/Encryption/KeyPairGenerator/EC" "AndroidEnvironment/Encryption/Keystore" "AndroidEnvironment/Encryption/EncryptedSharedPreferences" "AndroidEnvironment/Encryption/EncryptedFile"
+"AndroidEnvironment/ImageHandler/Coil" "AndroidEnvironment/ImageHandler/Picasso"
+"AndroidEnvironment/ImageHandler/Glide"
+"AndroidEnvironment/Animations/Lottie" "AndroidEnvironment/Animations/ValueAnimator"
+"AndroidEnvironment/Animations/Transitions" "AndroidEnvironment/Animations/ObjectAnimator" "AndroidEnvironment/Animations/MaterialMotion"
+)
 
 for folder in "${folders[@]}"; do
   mkdir -p "$folder"
