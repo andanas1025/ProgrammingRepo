@@ -1,4 +1,4 @@
-folders=("test/three" "test/four")
+folders=("RecursionAndBacktracking/N-queens" "RecursionAndBacktracking/SudokuSolver" "RecursionAndBacktracking/Permutations" "RecursionAndBacktracking/SubsetSum")
 
 for folder in "${folders[@]}"; do
   mkdir -p "$folder"
