@@ -1,13 +1,13 @@
 folders=(
-"Firebase/Authentication" "Firebase/Crashlytics" "Firebase/RemoteConfig" "Firebase/CloudMessanging" "Firebase/Firestore" 
-"Interviews/QuestionsHelper" "Interviews/Resources" "Interviews/SoftSkills" "Interviews/HardSkills" "Interviews/AppliedCases(Behavioral)"
-"Leadership/OKRs" "Leadership/KPI"
-"Design/Material3" "Design/Figma"
-"DesignPrinciples/SSOT" "DesignPrinciples/UDF" "DesignPrinciples/CleanArchitecture" "DesignPrinciples/KISS" "DesignPrinciples/SOLID" "DesignPrinciples/DRY" "DesignPrinciples/WYSIWYG"
-"CI-CD/GithubActions" "CI-CD/Jenkins" "CI-CD/TravisCI" "CI-CD/Bitrise" "CI-CD/Fastlane" "CI-CD/CircleCI"
-"VersionControl/git" "VersionControl/Github" "VersionControl/Gitlab" "VersionControl/bitbucket"
-"Fundamentals/IDE" "Fundamentals/KotlinBasics" "Fundamentals/OOP"
-)
+"AndroidEnvironment/package/apk" "AndroidEnvironment/package/aab"
+"AndroidEnvironment/DependencyProvider/Gradle" "AndroidEnvironment/DependencyProvider/Proguard" "AndroidEnvironment/DependencyProvider/R8" 
+"AndroidEnvironment/AppComponents/Activity" "AndroidEnvironment/AppComponents/Intent" "AndroidEnvironment/AppComponents/Service" "AndroidEnvironment/AppComponents/BroadcastReceiver" "AndroidEnvironment/AppComponents/ContentProvider"
+"AndroidEnvironment/interface/xml" "AndroidEnvironment/interface/JetpackCompose" "AndroidEnvironment/interface/CustomViews" 
+"AndroidEnvironment/Storage/SharedPreferences" "AndroidEnvironment/Storage/DataStore" "AndroidEnvironment/Storage/Room" "AndroidEnvironment/Storage/FileSystem"
+"AndroidEnvironment/Network/Retrofit" "AndroidEnvironment/Network/OkHttp" "AndroidEnvironment/Network/Retro" "AndroidEnvironment/Network/Apollo" "AndroidEnvironment/Network/GraphQL"
+"AndroidEnvironment/Asynchronism/Coroutines" "AndroidEnvironment/Asynchronism/Threads"
+"AndroidEnvironment/Asynchronism/RxJava" "AndroidEnvironment/Asynchronism/RxKotlin" "AndroidEnvironment/Asynchronism/WorkManager"
+"AndroidEnvironment/Testing/Espresso" "AndroidEnvironment/Testing/JUnit" "AndroidEnvironment/Testing/RoboElectric" "AndroidEnvironment/Testing/MockK" "AndroidEnvironment/Testing/Kluent" "AndroidEnvironment/Testing/KEspresso")
 
 for folder in "${folders[@]}"; do
   mkdir -p "$folder"
