@@ -1,4 +1,4 @@
-folders=("DataStructure/arrays" "DataStructure/List" "DataStructure/Map" "DataStructure/Set" "DataStructure/Stack" "DataStructure/Queue" "DataStructure/Deque" "DataStructure/Trees" "DataStructure/Graph" "DataStructure/Collections" "DataStructure/Iterable" "DataStructure/Android/ArrayMap" "DataStructure/Android/SparseArray" "DataStructure/Android/SparseBooleanArray" "DataStructure/Android/Bundle" "DataStructure/Android/LruCache" "DataStructure/Android/Cursor" "DataStructure/Android/LiveData" )
+folders=("DesignPatterns/Architecture/Repository" "DesignPatterns/Creational/Builder" "DesignPatterns/Creational/Factory" "DesignPatterns/Behavioral/Observer/Flow" "DesignPatterns/Behavioral/Observer/Rx" "DesignPatterns/Behavioral/Observer/Command" "DesignPatterns/Behavioral/Observer/Mediator" "DesignPatterns/Behavioral/Observer/LiveData" "DesignPatterns/DependencyInjection/Dagger" "DesignPatterns/DependencyInjection/Hilt" "DesignPatterns/DependencyInjection/Koin" "DesignPatterns/DependencyInjection/Kodein" "DesignPatterns/Creational/Singleton" "DesignPatterns/Structural/Adapter" "DesignPatterns/Behavioral/Strategy" "DesignPatterns/Structural/Facade" "DesignPatterns/Structural/Decorator" "DesignPatterns/Architecture/MVVM" "DesignPatterns/Architecture/MVI" "DesignPatterns/Architecture/MVP" "DesignPatterns/Architecture/MVC" "DesignPatterns/Architecture/CleanArchitecture")
 
 for folder in "${folders[@]}"; do
   mkdir -p "$folder"
@@ -8,3 +8,4 @@ git add .
 git commit -m "Added folder"
 git push origin main
 done
+
