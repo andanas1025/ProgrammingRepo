@@ -15,7 +15,3 @@ Scaling a Mobile App for a Large User Base
 Managing Increasing Data Volume (pagination and lazy loading)
 <br>Performance Optimization (ConstraintLayout and JobScheduler)
 <br>Concurrency and Multi-threading Issues (coroutines and RxJava)
-
-## ProGuard, R8
-Shrink, optimize, Obfuscate. Reduces APK Size, improve security
-<br>I've been used R8 and customized ProGuard rules to avoid issues like reflective class loading or serialization errors, which are common when shrinking code.
