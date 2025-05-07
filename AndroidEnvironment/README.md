@@ -20,3 +20,7 @@ It is the modern and latest UI Toolkit using declarative approach
 Build Type to build differents environments like Production or debugging
 <br>Product Flavor -> free, Paid
 <br>Variants -> freeProduction, freeDebugging, PaidProduction, PaidDebugging
+
+## ProGuard, R8
+Shrink, optimize, Obfuscate. Reduces APK Size, improve security
+<br>I've been used R8 and customized ProGuard rules to avoid issues like reflective class loading or serialization errors, which are common when shrinking code.
