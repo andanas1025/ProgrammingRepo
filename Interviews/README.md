@@ -1,1 +1,9 @@
-test
+## Tell me about yourself
+Sure! I’m Andrés Rubiano, an Android Developer with over 10 years of experience. I’ve worked on different industries like retail, travel, and entertainment, building scalable and high-quality apps.
+
+Some highlights from my career: <br>
+I helped improve the Disney Cruise Line app, making it easier for guests to plan their activities onboard. <br>
+At Rappi, I worked on performance improvements that made the app faster for thousands of users.<br>
+Recently, I’ve been leading technical efforts at Globant for clients like Walmart and REI—migrating code from Java to Kotlin, reducing bugs, improving load times, mentoring developers, developing features and creating the design system layer.<br>
+
+I’m passionate about clean architecture, best practices, and helping teams grow. I’m excited about opportunities like this at Disney, where I can contribute to building amazing user experiences."
