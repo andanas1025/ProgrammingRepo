@@ -15,3 +15,8 @@ It is the modern and latest UI Toolkit using declarative approach
 <br>State hoisting	Moving state ownership from child to parent.
 
 <br>Modifier	Chains UI modifications (padding, click).
+
+## Gradle
+Build Type to build differents environments like Production or debugging
+<br>Product Flavor -> free, Paid
+<br>Variants -> freeProduction, freeDebugging, PaidProduction, PaidDebugging
