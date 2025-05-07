@@ -3,7 +3,7 @@
 👉 Useful when an object has many optional parameters or needs to be created in
 AlertDialog is an Android Example
 
-# Factory
+## Factory
 👉 Used to create objects without exposing the creation logic.
 👉 You delegate the creation to a factory class or method, based on input.
 ViewModelProvider Factory
