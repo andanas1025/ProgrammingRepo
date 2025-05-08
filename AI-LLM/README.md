@@ -1,11 +1,10 @@
-## Github Copilot/Cursor/Gemini
+## Github Copilot/Cursor/Gemini/Tabnine
 <ui>
   <li>AI Completion tools. Suggest snippets code inside AS.</li>
   <li>Reduce time spent on boilerplate</li>
   <li>Learn best practices</li>
   <li>Error Reduction</li>
   <li>Write a comment like // create a recyclerview adapter and let Copilot generate a first draft.</li>
-  <li>Tabnine is another option like this</li>
 </ui>
 
 ## Windsurf
