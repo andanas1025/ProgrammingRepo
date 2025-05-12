@@ -27,3 +27,5 @@ Shrink, optimize, Obfuscate. Reduces APK Size, improve security
 
 ## Day-to-day to review
 https://app.daily.dev/search?q=android
+<br>https://blog.cleancoder.com/uncle-bob/2016/11/10/TDD-Doesnt-work.html
+
