@@ -24,3 +24,6 @@ Build Type to build differents environments like Production or debugging
 ## ProGuard, R8
 Shrink, optimize, Obfuscate. Reduces APK Size, improve security
 <br>I've been used R8 and customized ProGuard rules to avoid issues like reflective class loading or serialization errors, which are common when shrinking code.
+
+## Day-to-day to review
+https://app.daily.dev/search?q=android
