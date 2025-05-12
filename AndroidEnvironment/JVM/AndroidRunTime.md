@@ -66,3 +66,11 @@ Improved performance but only after the first few application usages.
 
 Low performance in the initial few runs of the application.
 
+## Baseline Profiles
+In this process, we create baseline profile data before the app release and upload it along with the APK, making this data available for the initial new users as well.
+
+Previously: Upload APK/AAB
+
+Now: Upload APK/AAB + Baseline Profiles
+
+Now, the Android Runtime (ART) can optimize specified code paths through Ahead-of-Time (AOT) compilation, providing performance enhancements for every new user.
