@@ -17,3 +17,7 @@ Sealed classes/interfaces, Default Arguments, Delegate properties (By lazy)
 
 By lazy (val): Only created when it's access for the first time. 
 lateinit(var): Promise to Kotlin that I'm going to initialize. Throw an exception. 
+
+## Android Runtime
+Dalvik, ART, JIT, AOT in Android. 
+
