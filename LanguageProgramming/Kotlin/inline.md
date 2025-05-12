@@ -25,3 +25,11 @@ fun main() {
     }
 }
 ```
+
+En tiempo de compilación se convierte en esto: 
+```
+println("Antes")
+println("Hola desde el bloque")
+println("Después")
+```
+
