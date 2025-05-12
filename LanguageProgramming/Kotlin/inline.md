@@ -33,3 +33,10 @@ println("Hola desde el bloque")
 println("Después")
 ```
 
+## Cuando no usarlo? 
+
+Cuándo no usar inline
+
+- Si la función es grande, inlining puede hacer crecer mucho el tamaño del bytecode (code bloat).
+
+- Si no usas lambdas ni genéricos, probablemente no necesitas inline.
