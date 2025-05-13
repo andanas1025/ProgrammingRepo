@@ -114,7 +114,13 @@ Helpers
 
 
 
-Lecturas
+## Lecturas
+
 https://dagger.dev/hilt/android-entry-point.html
 https://developer.android.com/training/dependency-injection/manual
+
+* @Binds is (slightly) more compact: You can skip the implementation.
+* @Binds works in interfaces and abstract classes, which are strictly required for Dagger features like @BindsOptionalOf and @ContributesAndroidInjector.
+* @Binds helps your code stay efficient. @Provides methods can be instance methods, which require Dagger to instantiate your Module in order to call them. Making your @Provides method static will also accomplish this, but your @Provides method will still compile if you forget the static. @Binds methods will not.
+* @Binds prevents Dagger from having to codegen and keep a separate Factory/Provider for the object, since Java doesn't give Dagger access to know that the implementation is as simple as it is. In your case, Dagger can cast the Provider<HomePresenterImp> to a Provider<HomePresenter> and only keep one, rather than keeping one for HomePresenter that does nothing but call the one for HomePresenterImp.
 
