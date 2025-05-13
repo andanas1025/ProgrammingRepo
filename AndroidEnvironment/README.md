@@ -25,6 +25,10 @@ Build Type to build differents environments like Production or debugging
 Shrink, optimize, Obfuscate. Reduces APK Size, improve security
 <br>I've been used R8 and customized ProGuard rules to avoid issues like reflective class loading or serialization errors, which are common when shrinking code.
 
+## Strict Mode
+
+StrictMode is a developer tool which detects things you might be doing by accident and brings them to your attention so you can fix them. StrictMode is most commonly used to catch accidental disk or network access on the application's main thread, where UI operations are received and animations take place
+
 ## Day-to-day to review
 https://app.daily.dev/search?q=android
 <br>https://blog.cleancoder.com/uncle-bob/2016/11/10/TDD-Doesnt-work.html
