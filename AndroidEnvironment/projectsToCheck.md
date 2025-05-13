@@ -107,3 +107,25 @@ Modern Android App Architecture -> https://developer.android.com/courses/pathway
 
 project -> https://github.com/google/iosched
 
+Course and videos
+
+https://www.youtube.com/watch?v=1UXnzbc6on8
+Load init data
+
+Roadmap
+https://getstream.io/blog/android-developer-roadmap/?utm_source=Github&utm_medium=Jaewoong_OSS&utm_content=Developer&utm_campaign=Github_Dec2024_AndroidDeveloperRoadmap&utm_term=DevRelOss
+
+https://getstream.io/blog/android-developer-roadmap-part-2/?utm_source=Github&utm_medium=Jaewoong_OSS&utm_content=Developer&utm_campaign=Github_Dec2024_AndroidDeveloperRoadmap&utm_term=DevRelOss
+
+Navigation
+
+https://getstream.io/blog/android-developer-roadmap-part-3/?utm_source=Github&utm_medium=Jaewoong_OSS&utm_content=Developer&utm_campaign=Github_Dec2024_AndroidDeveloperRoadmap&utm_term=DevRelOss
+
+Design Paterns
+https://getstream.io/blog/design-patterns-and-architecture-the-android-developer-roadmap-part-4/?utm_source=Github&utm_medium=Jaewoong_OSS&utm_content=Developer&utm_campaign=Github_Dec2024_AndroidDeveloperRoadmap&utm_term=DevRelOss
+
+RoadMap 5
+https://getstream.io/blog/android-developer-roadmap-part-5/?utm_source=Github&utm_medium=Jaewoong_OSS&utm_content=Developer&utm_campaign=Github_Dec2024_AndroidDeveloperRoadmap&utm_term=DevRelOss
+
+
+
