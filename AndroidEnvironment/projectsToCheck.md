@@ -100,3 +100,10 @@
 32. Chucker - Inspector for OkHttp https://lnkd.in/dmKiBDij
 
 33. Inspektify - Inspector for Ktor https://lnkd.in/dtuY6TWn
+
+34. Coming events -> https://androidstudygroup.github.io/conferences/
+
+Modern Android App Architecture -> https://developer.android.com/courses/pathways/android-architecture
+
+project -> https://github.com/google/iosched
+
