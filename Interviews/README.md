@@ -32,3 +32,21 @@ I advocate for solid engineering practices like clean architecture, SOLID princi
 <br><br>
 **How do you promote technical innovation in your team?**
 I create a culture where experimentation is encouraged — for example, through innovation sprints. I stay current with industry trends and share findings regularly with the team, encouraging tech talks and proof of concept initiatives. I also support engineers in attending conferences, contributing to open source, and mentoring others. Innovation often comes from solving real problems, so I empower the team to explore new tools or approaches that can improve our delivery or product experience.
+
+## How have you optimized processes, automated flows, or reduced technical debt?
+In a previous role, I led several initiatives focused on improving developer efficiency and product stability:
+
+**Process Optimization:**
+I streamlined our mobile release cycle by implementing a branching strategy (GitFlow) and introducing standardized pull request templates and code review guidelines. This reduced merge conflicts and improved code quality across teams.
+
+**Automation of Flows:**
+I introduced CI/CD pipelines using GitHub Actions and Bitrise for our Android app. This automated build verification, linting, unit tests, and deployment to internal testers via Firebase App Distribution. It cut our manual QA effort by over 40% and enabled faster, safer releases.
+
+**Technical Debt Reduction:**
+We inherited a large legacy codebase with inconsistent architecture. I introduced a gradual refactoring strategy, starting with modularizing the app and migrating critical features from MVP to MVVM with clean architecture. Alongside that, we enforced static analysis tools like Detekt and Ktlint to maintain consistency. Over time, crash rates dropped and onboarding new developers became faster and more predictable.
+
+## Questions
+- What are the biggest challenges that ESPN is facing now?
+- How do you promote the Tech growth knowledge in the team?
+- 
+
