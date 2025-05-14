@@ -26,9 +26,15 @@ class FavoritesViewModel : ViewModel() {
 val favorites: Set<Product> = ...
 ```
 **Productos con precio mayor a 100.0:** favorites.filter { it.price > 100.0 }
+<br>
 **Encontrar el primero de la categoria Entertainment:** favorites.find { it.category == "Electronics" }
+<br>
 **Verificar que todos son de la misma categoria(Books):** favorites.all { it.category == "Books" }
+<br>
 **Hay algun elemento con precio 0.0?:** val hasFreeItem = favorites.any { it.prices == 0.0 }
+<br>
 **Agrupar por categoria:** val groupedByCategory: Map<String, List<Products>> = favorites.groupBy { it.category }
+<br>
 **Ordenar por precio ascendente:** val sortedFavorites = favorites.sortBy { it.price }
+<br>
 **Transformar a una lista de nombres:** favorites.map { it.name }
