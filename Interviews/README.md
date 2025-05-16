@@ -16,11 +16,6 @@ Managing Increasing Data Volume (pagination and lazy loading)
 <br>Performance Optimization (ConstraintLayout and JobScheduler)
 <br>Concurrency and Multi-threading Issues (coroutines and RxJava)
 
-## Disney 3 ESPN
-- ESPN is one of the world’s leading sports media companies.
-- ESPN+ (its direct-to-consumer streaming service), ESPN.com, Mobile apps and OTT products
-- 
-
 **How have you scaled a system or architecture?**
 In one of my previous roles, I led the architectural redesign of a monolithic Android application used by millions of users. We transitioned to a modular, clean architecture using MVVM and modern Jetpack libraries.
 <br><br>
