@@ -40,8 +40,5 @@ I introduced CI/CD pipelines using GitHub Actions and Bitrise for our Android ap
 **Technical Debt Reduction:**
 We inherited a large legacy codebase with inconsistent architecture. I introduced a gradual refactoring strategy, starting with modularizing the app and migrating critical features from MVP to MVVM with clean architecture. Alongside that, we enforced static analysis tools like Detekt and Ktlint to maintain consistency. Over time, crash rates dropped and onboarding new developers became faster and more predictable.
 
-## Questions
-- What are the biggest challenges that ESPN is facing now?
-- How do you promote the Tech growth knowledge in the team?
-- 
-
+## Apologize to join late
+Hey [Name], I’m really sorry I missed our last call. Something unexpected came up, and I wasn’t able to join in time. I value our conversations and would love to reschedule whenever it works best for you.
