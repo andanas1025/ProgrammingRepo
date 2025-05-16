@@ -35,3 +35,6 @@ https://app.daily.dev/search?q=android
 <br>https://developer.android.com/topic/architecture
 <br>https://developer.android.com/develop#core-areas
 <br>https://developer.android.com/samples?language=kotlin
+
+## Matters to study
+AIDL, IPC, database migration, cooperative coroutines, cancelations tokens, SDLC, Waterfall
