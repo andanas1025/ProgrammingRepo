@@ -46,10 +46,13 @@
 - Describe the problem that existed before you took action
 - Talk about how you took initiative to solve the problem
 - Explain why you're proud of the outcome and what would have happened if you hadn't stepped in
-**Can you explain your employment gap?**
-<br><br>
-**What are your salary expectation**
-<br><br>
+## Can you explain your employment gap?
+- Expect that they will ask about the gap prepare for it
+- Answer honestly and strategically
+- Be confident and succinct
+- Shine a light on the good that came out of that time.
+## What are your salary expectation*
+- 
 **What do you like to do ouside of work**
 <br><br>
 **Tell me about a time you had to manage conflicting prior**
