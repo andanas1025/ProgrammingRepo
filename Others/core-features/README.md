@@ -1,0 +1,17 @@
+## Core Features
+- Maps
+- Image loader from local Storage
+- Camera
+- Push Notifications
+- GPS Tracking
+- Permission
+- Battery Drain
+- Network Status
+- Background Tasks
+- Messanging
+- Offline Support
+- Audio/Video
+- Biometric
+- Google Calendar
+- Storage
+- 
