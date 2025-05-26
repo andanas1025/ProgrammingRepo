@@ -1,5 +1,5 @@
 ## Tell me about yourself
-Sure! I’m Andrés Rubiano, an Android Developer with over 10 years of experience. I’ve worked on different industries like retail, travel, and entertainment, building scalable and high-quality apps.
+Sure! I’m --, an Android Developer with over 10 years of experience. I’ve worked on different industries like retail, travel, and entertainment, building scalable and high-quality apps.
 
 Some highlights from my career: <br>
 I helped improve the Disney Cruise Line app, making it easier for guests to plan their activities onboard. <br>
@@ -7,6 +7,10 @@ At Rappi, I worked on performance improvements that made the app faster for thou
 Recently, I’ve been leading technical efforts at Globant for clients like Walmart and REI—migrating code from Java to Kotlin, reducing bugs, improving load times, mentoring developers, developing features and creating the design system layer.<br>
 
 I’m passionate about clean architecture, best practices, and helping teams grow. I’m excited about opportunities like this at Disney, where I can contribute to building amazing user experiences."
+
+I'm a Senior Android Engineer with strong experience building scalable and high-impact mobile apps, especially using Clean Architecture, Kotlin, Jetpack Compose, and Firebase. I’ve led mobile projects in both startups and larger companies across Latin America and the U.S., often working under staff augmentation models. 
+
+One of my key achievements was at Rappi, where I contributed to increasing the GMV through improvements in the mobile experience. I'm passionate about code quality, performance, and team collaboration. Lately, I've also been working on an inventory management app using Firestore and modern Android practices. I'm looking for a role where I can combine hands-on development with leadership, and help deliver real value through mobile technology.
 
 ## Challenges
 Scaling a Mobile App for a Large User Base
