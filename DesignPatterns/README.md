@@ -26,7 +26,7 @@ Notify subscribers when data changes
 <br>LiveData, Flow, RxJava
 
 **Strategy**
-It makes it easy to swap methods or strategies without changing the main code.<br>
+It makes it easy to swap methods or strategies without changing the main code. interface the imageLoading and it could be implemented by different classes.<br>
 
 ## Creational
 
