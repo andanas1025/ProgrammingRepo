@@ -21,3 +21,14 @@ lateinit(var): Promise to Kotlin that I'm going to initialize. Throw an exceptio
 ## Android Runtime
 Dalvik, ART, JIT, AOT in Android. 
 
+## Jetpack Compose
+- Declarative way
+- Recomposition
+- Kotlin first and type-safe (interoperability)
+- Composable functions
+- State like StateFLow
+- MAterial design integration
+- Previews
+- Interoperabiity with XML
+- Lifecycle aware (remember, LaunchEffect)
+
