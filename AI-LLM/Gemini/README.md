@@ -6,12 +6,15 @@ Prompt: "For this image provided, write Android Jetpack Compose code to make a s
 It's a must to have Narwhal
 
 **AI Features**
-- Code Completion, Prompt Library, Chat, explain code
+- Code Completion, Prompt Library, Chat, 
+- **right click/gemini & ->** Suggest improvements, explain code, refactor, rethink variables name, unit test, documentation, commit message suggestions.
+- 
 
 **Tools**
-- Connect Crashlytics and Android Vitals inside Android Studio
+- **App Quality:** Connect Crashlytics and Android Vitals inside Android Studio
 - Analyze differences between Gemini Business and Independently
 
 **Resources**
 - Architecture course -> https://developer.android.com/courses/pathways/android-architecture?_gl=1*dooj16*_up*MQ..&gclid=CjwKCAjwmJeYBhAwEiwAXlg0AQp7W8HcimAMoS60NuNmx7HJMgLXW5zyoIPMmmNO-t99y--wdKMP0xoCvnMQAvD_BwE
+- KMP -> https://globant.udemy.com/course/kotlin-multiplataforma-curso-intensivo-para-android-y-ios/learn/lecture/41834154#overview
 - 
