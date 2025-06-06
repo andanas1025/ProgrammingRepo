@@ -12,6 +12,9 @@ I’m passionate about clean architecture, best practices, and helping teams gro
 
 One of my key achievements was at Rappi, where I contributed to increasing the GMV through improvements in the mobile experience. I'm passionate about code quality, performance, and team collaboration. Lately, I've also been working on an inventory management app using Firestore and modern Android practices. I'm looking for a role where I can combine hands-on development with leadership, and help deliver real value through mobile technology.
 
+**Brief description**
+Hi, I'm [Your Name]. I just joined as a [Your Role] and have experience in [Your Expertise]. I'm looking forward to working with you all and contributing to the team!
+
 ## Challenges
 Scaling a Mobile App for a Large User Base
 <br> In a project I worked on, we had to scale an existing mobile app that was experiencing rapid growth. Initially, the app was designed to handle a small user base, but as we added more features and users, we started facing significant performance bottlenecks.
